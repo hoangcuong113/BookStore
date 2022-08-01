@@ -1,0 +1,431 @@
+{
+  "sachmoi": [
+    {
+      "id": "sm1",
+      "title": "lap ke hoach kinh doanh hieu qua",
+      "image": "../images/lap-ke-hoach-kinh-doanh-hieu-qua.jpg",
+      "prince": "129.000",
+      "author": "Brian Finch"
+    },
+    {
+      "id": "sm2",
+      "title": "Ma Bùn Lưu Manh Và Những Câu Chuyện Khác Của Nguyễn Trí",
+      "image": "../images/ma-bun-luu-manh.jpg",
+      "prince": "89.000",
+      "author": "Nguyễn Trí"
+    },
+    {
+      "id": "sm3",
+      "title": "Bank 4.0 - Giao dịch mọi nơi, không chỉ là ngân hàng",
+      "image": "../images/bank-4.0.jpg",
+      "prince": "150.000",
+      "author": "Brett King"
+    },
+    {
+      "id": "sm4",
+      "title": "Bộ Sách 500 Câu Chuyện Đạo Đức - Những Câu Chuyện",
+      "image": "../images/bo-sach-500-cau-chuyen-dao-duc.jpg",
+      "prince": "390.000",
+      "author": "Nguyễn Hạnh - Trần Thị Thanh Nguyên"
+    },
+    {
+      "id": "sm5",
+      "title": "Lịch Sử Ung Thư - Hoàng Đế Của Bách Bệnh",
+      "image": "../images/ung-thu-hoang-de-cua-bach-benh.jpg",
+      "prince": "190.000",
+      "author": "Siddhartha Mukherjee"
+    }
+  ],
+  "sachgiamgia": [
+    {
+      "id": "sgg1",
+      "title": "Chuyện Nghề Và Chuyện Đời - Bộ 4 Cuốn",
+      "image": "../images/combo-chuyen-nghe-chuyen-doi.jpg",
+      "prince": "111.200",
+      "author": "Nguyễn Hữu Long",
+      "giacu": "139.000"
+    },
+    {
+      "id": "sgg2",
+      "title": "Combo Mẹ Con Sư Tử - Bồ Tát Ngàn Tay Ngàn Mắt",
+      "image": "../images/combo-me-con-su-tu-bo-tat-ngan-tay-ngan-mat.jpg",
+      "prince": "111.200",
+      "author": "Thích Nhất Hạnh",
+      "giacu": "139.000"
+    },
+    {
+      "id": "sgg3",
+      "title": "Gosho Aoyama, Mutsuki Watanabe, Takahisa Taira",
+      "image": "../images/combo-hanh-phuc-sang-tao.jpg",
+      "prince": "111.200",
+      "author": "Gosho Aoyama, Mutsuki Watanabe, Takahisa Taira",
+      "giacu": "139.000"
+    },
+    {
+      "id": "sgg4",
+      "title": "Combo Giáo Dục Và Ý Nghĩa Cuộc Sống Và Bạn Đang Nghịch Gì Với Đời Mình?",
+      "image": "../images/combo-giao-duc-va-y-nghia-cuoc-song.jpg",
+      "prince": "111.200",
+      "author": " J.Krishnamurti",
+      "giacu": "139.000"
+    },
+    {
+      "id": "sgg5",
+      "title": "Combo Dinh Dưỡng Xanh - Thần dược xanh",
+      "image": "../images/combo-dinh-duong-than-duoc-xanh.jpg",
+      "prince": "111.200",
+      "author": "Ryu Seung-SunVictoria Boutenko",
+      "giacu": "139.000"
+    }
+  ],
+  "sachsph": [
+    {
+      "id": "ssph1",
+      "title": "Ngoại Giao Của Chính Quyền Sài Gòn",
+      "image": "../images/ngoai-giao-cua-chinh-quyen-sai-gon.jpg",
+      "author": "Nguyễn Hữu Long"
+    },
+    {
+      "id": "ssph2",
+      "title": "Đường Mây Trên Đất Hoa",
+      "image": "../images/duong-may-tren-dat-hoa.jpg",
+      "author": " J.Krishnamurti"
+    },
+    {
+      "id": "ssph3",
+      "title": "Muôn Kiếp Nhân Sinh",
+      "image": "../images/muon-kiep-nhan-sinh.jpg",
+      "author": "Brian Finch"
+    },
+    {
+      "id": "ssph4",
+      "title": "Đường Mây Trong Cõi Mộng",
+      "image": "../images/duong-may-trong-coi-mong.jpg",
+      "author": "Norman W. Walker"
+    },
+    {
+      "id": "ssph5",
+      "title": "Cuốn Sách Khám Phá: Trời Đêm Huyền Diệu",
+      "image": "../images/troi-dem-huyen-dieu.jpg",
+      "author": "Disney Learning"
+    }
+  ],
+  "sachhot": [
+    {
+      "id": "sh1",
+      "title": " Từng bước chân nở hoa: Khi câu kinh bước tới",
+      "image": "../images/tung-buoc-chan-no-hoa.jpg",
+      "prince": "229.000",
+      "author": "Brian Finch"
+    },
+    {
+      "id": "sh2",
+      "title": "Cảm ơn vì đã được thương",
+      "image": "../images/cam-on-vi-da-duoc-thuong.jpg",
+      "prince": "89.000",
+      "author": "Nguyễn Trí"
+    },
+    {
+      "id": "sh3",
+      "title": "Hào quang của vua Gia Long trong mắt Michel Gaultier",
+      "image": "../images/vua-gia-long.jpg",
+      "prince": "150.000",
+      "author": "Brett King"
+    },
+    {
+      "id": "sh4",
+      "title": "Suối nguồn” và cái tôi hiện sinh trong từng cá thể",
+      "image": "../images/suoi-nguon-va-cai-toi-trong-tung-ca-the.jpg",
+      "prince": "390.000",
+      "author": "Nguyễn Hạnh - Trần Thị Thanh Nguyên"
+    },
+    {
+      "id": "sh5",
+      "title": "Đại dịch trên những con đường tơ lụa",
+      "image": "../images/dai-dich-tren-con-duong-to-lua.jpg",
+      "prince": "190.000",
+      "author": "Siddhartha Mukherjee"
+    }
+  ],
+  "danhmuc": [
+    {
+      "id": "dm1",
+      "title": " Sách Kinh Tế - Kỹ Năng"
+    },
+    {
+      "id": "dm2",
+      "title": " Nghệ Thuật Sống - Tâm Lý "
+    },
+    {
+      "id": "dm3",
+      "title": " Sách Văn Học Việt Nam"
+    },
+    {
+      "id": "dm4",
+      "title": " Sách Văn Học Nước Ngoài"
+    },
+    {
+      "id": "dm5",
+      "title": " Sách Thiếu Nhi"
+    },
+    {
+      "id": "dm6",
+      "title": " Sách Giáo Dục - Gia Đình"
+    },
+    {
+      "id": "dm7",
+      "title": " Sách Lịch Sử"
+    },
+    {
+      "id": "dm8",
+      "title": " Sách Văn Hóa - Nghệ Thuật"
+    },
+    {
+      "id": "dm9",
+      "title": "Sách Khoa Học - Triết Học"
+    },
+    {
+      "id": "dm10",
+      "title": " Sách Tâm Linh - Tôn Giáo"
+    },
+    {
+      "id": "dm11",
+      "title": "Sách Y Học - Thực Dưỡng"
+    }
+  ],
+  "danhmuc-sachKt": [
+    {
+      "id": "kt1",
+      "titlel": "Kinh Tế - Chính Trị"
+    },
+    {
+      "id": "kt2",
+      "titlel": "Sách Khởi Nghiệp"
+    },
+    {
+      "id": "kt3",
+      "titlel": "Sách Tài Chính, Kế Toán"
+    },
+    {
+      "id": "kt4",
+      "titlel": "Sách Quản Trị Nhân Sự"
+    }
+  ],
+  "sach": [
+    {
+      "id": "sm1",
+      "title": "Lập kế hoạch kinh doanh hiệu quả",
+      "image": "../images/lap-ke-hoach-kinh-doanh-hieu-qua.jpg",
+      "prince": "129 000",
+      "author": "Brian Finch",
+      "type": "sachmoi"
+    },
+    {
+      "id": "sm2",
+      "title": "Ma Bùn Lưu Manh Và Những Câu Chuyện Khác Của Nguyễn Trí",
+      "image": "../images/ma-bun-luu-manh.jpg",
+      "prince": "89 000",
+      "author": "Nguyễn Trí"
+    },
+    {
+      "id": "sm3",
+      "title": "Bank 4.0 - Giao dịch mọi nơi, không chỉ là ngân hàng",
+      "image": "../images/bank-4.0.jpg",
+      "prince": "150 000",
+      "author": "Brett King",
+      "type": "sachmoi"
+    },
+    {
+      "id": "sm4",
+      "title": "Bộ Sách 500 Câu Chuyện Đạo Đức - Những Câu Chuyện",
+      "image": "../images/bo-sach-500-cau-chuyen-dao-duc.jpg",
+      "prince": "390 000",
+      "author": "Nguyễn Hạnh - Trần Thị Thanh Nguyên",
+      "type": "sachmoi"
+    },
+    {
+      "id": "sm5",
+      "title": "Lịch Sử Ung Thư - Hoàng Đế Của Bách Bệnh",
+      "image": "../images/ung-thu-hoang-de-cua-bach-benh.jpg",
+      "prince": "190 000",
+      "author": "Siddhartha Mukherjee",
+      "type": "sachmoi"
+    },
+    {
+      "id": "sgg1",
+      "title": "Chuyện Nghề Và Chuyện Đời - Bộ 4 Cuốn",
+      "image": "../images/combo-chuyen-nghe-chuyen-doi.jpg",
+      "prince": "89 000",
+      "author": "Nguyễn Hữu Long",
+      "giacu": "89 000",
+      "type": "sachgiamgia"
+    },
+    {
+      "id": "sgg2",
+      "title": "Combo Mẹ Con Sư Tử - Bồ Tát Ngàn Tay Ngàn Mắt",
+      "image": "../images/combo-me-con-su-tu-bo-tat-ngan-tay-ngan-mat.jpg",
+      "prince": "89 000",
+      "author": "Thích Nhất Hạnh",
+      "giacu": "139 000",
+      "type": "sachgiamgia"
+    },
+    {
+      "id": "sgg3",
+      "title": "Gosho Aoyama, Mutsuki Watanabe, Takahisa Taira",
+      "image": "../images/combo-hanh-phuc-sang-tao.jpg",
+      "prince": "89 000",
+      "author": "Gosho Aoyama, Mutsuki Watanabe, Takahisa Taira",
+      "giacu": "139 000",
+      "type": "sachgiamgia"
+    },
+    {
+      "id": "sgg4",
+      "title": "Combo Giáo Dục Và Ý Nghĩa Cuộc Sống Và Bạn Đang Nghịch Gì Với Đời Mình?",
+      "image": "../images/combo-giao-duc-va-y-nghia-cuoc-song.jpg",
+      "prince": "89 000",
+      "author": " J.Krishnamurti",
+      "giacu": "139 000",
+      "type": "sachgiamgia"
+    },
+    {
+      "id": "sgg5",
+      "title": "Combo Dinh Dưỡng Xanh - Thần dược xanh",
+      "image": "../images/combo-dinh-duong-than-duoc-xanh.jpg",
+      "prince": "89 000",
+      "author": "Ryu Seung-SunVictoria Boutenko",
+      "giacu": "139000",
+      "type": "sachgiamgia"
+    },
+    {
+      "id": "ssph1",
+      "title": "Ngoại Giao Của Chính Quyền Sài Gòn",
+      "image": "../images/ngoai-giao-cua-chinh-quyen-sai-gon.jpg",
+      "author": "Nguyễn Hữu Long",
+      "type": "sapphathanh",
+      "prince": "129.000"
+    },
+    {
+      "id": "ssph2",
+      "title": "Đường Mây Trên Đất Hoa",
+      "image": "../images/duong-may-tren-dat-hoa.jpg",
+      "author": " J.Krishnamurti",
+      "type": "sapphathanh",
+      "prince": "129.000"
+    },
+    {
+      "id": "ssph3",
+      "title": "Muôn Kiếp Nhân Sinh",
+      "image": "../images/muon-kiep-nhan-sinh.jpg",
+      "author": "Brian Finch",
+      "type": "sapphathanh",
+      "prince": "129.000"
+    },
+    {
+      "id": "ssph4",
+      "title": "Đường Mây Trong Cõi Mộng",
+      "image": "../images/duong-may-trong-coi-mong.jpg",
+      "author": "Norman W. Walker",
+      "type": "sapphathanh",
+      "prince": "129.000"
+    },
+    {
+      "id": "ssph5",
+      "title": "Cuốn Sách Khám Phá: Trời Đêm Huyền Diệu",
+      "image": "../images/troi-dem-huyen-dieu.jpg",
+      "author": "Disney Learning",
+      "type": "sapphathanh",
+      "prince": "129.000"
+    },
+    {
+      "id": "sh1",
+      "title": " Từng bước chân nở hoa: Khi câu kinh bước tới",
+      "image": "../images/tung-buoc-chan-no-hoa.jpg",
+      "prince": "229.000",
+      "author": "Brian Finch",
+      "type": "sachhot"
+    },
+    {
+      "id": "sh2",
+      "title": "Cảm ơn vì đã được thương",
+      "image": "../images/cam-on-vi-da-duoc-thuong.jpg",
+      "prince": "89.000",
+      "author": "Nguyễn Trí",
+      "type": "sachhot"
+    },
+    {
+      "id": "sh3",
+      "title": "Hào quang của vua Gia Long trong mắt Michel Gaultier",
+      "image": "../images/vua-gia-long.jpg",
+      "prince": "150.000",
+      "author": "Brett King",
+      "type": "sachhot"
+    },
+    {
+      "id": "sh4",
+      "title": "Suối nguồn” và cái tôi hiện sinh trong từng cá thể",
+      "image": "../images/suoi-nguon-va-cai-toi-trong-tung-ca-the.jpg",
+      "prince": "390.000",
+      "author": "Nguyễn Hạnh - Trần Thị Thanh Nguyên",
+      "type": "sachhot"
+    },
+    {
+      "id": "sh5",
+      "title": "Đại dịch trên những con đường tơ lụa",
+      "image": "../images/dai-dich-tren-con-duong-to-lua.jpg",
+      "prince": "190.000",
+      "author": "Siddhartha Mukherjee",
+      "type": "sachhot"
+    }
+  ],
+  "taikhoan": [
+    {
+      "id": "tk1",
+      "email": "admin@gmail.com",
+      "password": "123456",
+      "phone": "0123456789",
+      "fullname": "hoang van cuong"
+    },
+    {
+      "fullName": "hoang van cuong",
+      "phone": "0912345678",
+      "email": "admin12@gmail.com",
+      "password": "123",
+      "id": "_tY3D26"
+    },
+    {
+      "fullName": "hoang van cuong",
+      "phone": "0912345678",
+      "email": "admin111@gmail.com",
+      "password": "012345",
+      "id": "B1OxeT7"
+    },
+    {
+      "fullName": "hoang van cuong",
+      "phone": "0912345678",
+      "email": "admin12@gmail.com",
+      "password": "123123",
+      "id": "gn_Otnf"
+    },
+    {
+      "fullName": "hoang van cuong",
+      "phone": "0912345678",
+      "email": "123456@gmail.com",
+      "password": "123456",
+      "id": "_pHLpKN"
+    },
+    {
+      "fullName": "hoang van cuong",
+      "phone": "0912345678",
+      "email": "admin123456@gmail.com",
+      "password": "123456",
+      "id": "FMRUg1H"
+    },
+    {
+      "fullName": "hoang van cuong",
+      "phone": "0912345678",
+      "email": "admin333@gmail.com",
+      "password": "123456",
+      "id": "uVs0Uu9"
+    }
+  ]
+}
